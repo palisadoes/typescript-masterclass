@@ -3,22 +3,22 @@
 // basic type annotations
 //------------------------
 let age = 30;
-let firstName = 'Mario';
+let firstName = "Mario";
 let isFictional;
 // age = 'hello'
 age = 31;
 // firstName = 100
-firstName = 'Luigi';
+firstName = "Luigi";
 // isFictional = 'false'
 isFictional = false;
 //----------------
 // type inference
 //----------------
-let planet = 'Earth';
+let planet = "Earth";
 let moons = 1;
 let isLarge = false;
 // planet = 10
-planet = 'Saturn';
+planet = "Saturn";
 // moons = '145'
 moons = 145;
 // isLarge = 'yes'
